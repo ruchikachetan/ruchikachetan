@@ -64,7 +64,7 @@ A full-stack inventory management application designed to help users manage thei
 ## 📫 Connect With Me
 
 - GitHub: [@ruchikachetan](https://github.com/ruchikachetan)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: www.linkedin.com/in/ruchika-chetan
 
 ---
 
