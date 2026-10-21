@@ -1,6 +1,6 @@
 # Hi, I'm Ruchika Chetan 👋
 
-### Aspiring Software Developer| B.Tech CSE
+### Aspiring Software Developer| B.Tech CSE '26
 
 I'm passionate about building practical applications
 and continuously improving my programming skills.
