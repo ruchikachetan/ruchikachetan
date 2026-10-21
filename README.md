@@ -16,7 +16,7 @@ Building projects, learning new technologies, and growing as a developer.
 
 - 🎓 Computer Science Engineering student
 - 💻 Interested in software and web development
-- 🌱 Currently learning TypeScript and full-stack development
+- 🌱 Currently learning TypeScript 
 - 🚀 Working with JavaScript, Node.js, MySQL, and Docker
 - 🎯 Focused on building practical projects and improving my coding skills
 
