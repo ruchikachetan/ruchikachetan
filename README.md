@@ -15,7 +15,7 @@ Building projects, learning new technologies, and growing as a developer.
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech Computer Science Engineering student
+- 🎓 B.Tech Computer Science Engineering student '26
 - 💻 Interested in software development and full-stack web development
 - 🌱 Currently learning TypeScript and improving my JavaScript skills
 - 🚀 Building projects using Node.js, Express.js, MySQL, and Docker
@@ -53,38 +53,6 @@ Building projects, learning new technologies, and growing as a developer.
 
 ---
 
-## 🚀 Featured Project
-
-### 📦 Smart Inventory System
-
-A full-stack inventory management application designed to help users manage and organize their products.
-
-**Key Features**
-
-- 🔐 User registration and login
-- 👤 User authentication using JWT
-- 📦 Product management
-- 🗄️ MySQL database integration
-- 🐳 Docker-based development environment
-- 🔒 User-specific inventory management
-
-**Tech Stack**
-
-`JavaScript` · `Node.js` · `Express.js` · `MySQL` · `Docker`
-
-🔗 **[Explore My GitHub Repositories](https://github.com/ruchikachetan?tab=repositories)**
-
----
-
-## 📚 Currently Learning
-
-- TypeScript fundamentals
-- Full-stack web development
-- REST API development
-- Database integration
-- Docker and containerization
-
----
 
 ## 🎯 My Goals
 
